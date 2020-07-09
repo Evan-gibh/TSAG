@@ -1,2 +1,2 @@
-# TSAG
-Advanced guidance platform for transcriptome analysis
+# TSAGOS
+Transcriptome sequencing analysis guide on shiny! 
